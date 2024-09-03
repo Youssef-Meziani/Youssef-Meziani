@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on enhancing my skills in web development, focusing on PHP with Drupal 10, as well as deepening my understanding of backend frameworks like Symfony and Spring Boot.<br>
+🔭 I’m currently working on enhancing my skills in web development, testing, and making sure to deliver high-quality solutions and code.<br>
 👯 I’m looking to collaborate on open-source projects, particularly those related to web development, machine learning, or data science.<br>
 🤝 I’m looking for help with mastering advanced DevOps practices, especially in CI/CD and Docker.<br>
 🌱 I’m currently learning more about frontend frameworks and refining my design skills using tools like Adobe Illustrator and Canva.<br>
