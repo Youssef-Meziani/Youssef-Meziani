@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on enhancing my skills in web development, focusing on PHP with Drupal 10, as well as deepening my understanding of backend frameworks like Symfony and Spring Boot.<br>
+👯 I’m looking to collaborate on open-source projects, particularly those related to web development, machine learning, or data science.<br>
+🤝 I’m looking for help with mastering advanced DevOps practices, especially in CI/CD and Docker.<br>
+🌱 I’m currently learning more about frontend frameworks and refining my design skills using tools like Adobe Illustrator and Canva.<br>
+💬 Ask me about web development, backend frameworks, database management, and anything tech-related—I'm always up for a good discussion!<br>
+⚡ Fun fact: I enjoy combining my technical skills with creativity, whether it's designing custom themes or developing unique solutions to complex problems.
 
 
 ## 🌐 Socials:
@@ -20,6 +25,3 @@
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/YoussefMeziani) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
