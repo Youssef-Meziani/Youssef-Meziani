@@ -1,7 +1,7 @@
-
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&duration=2000&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Youssef%2C;I'm+a+computer+science+engineer)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=26&duration=2000&pause=1000&center=true&vCenter=true&random=true&width=500&lines=Hi+there!+%F0%9F%91%8B+I'm+Youssef%2C;I'm+a+Computer+Science+Engineer."/>
 </div>
+
 ###
 
 <div align="center">
@@ -185,10 +185,10 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Youssef-Meziani/Youssef-Meziani/output/snake.svg" alt="Snake animation" />
 
 ###
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</div>
