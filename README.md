@@ -182,7 +182,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Youssef-Meziani/Youssef-Meziani/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Youssef-Meziani/Youssef-Meziani/blob/output/snake.gif)
 
 ###
 
