@@ -182,7 +182,20 @@
 
 ###
 
-![snake gif](https://github.com/Youssef-Meziani/Youssef-Meziani/blob/output/snake.gif)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Youssef-Meziani/Youssef-Meziani/output/snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Youssef-Meziani/Youssef-Meziani/output/snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Youssef-Meziani/Youssef-Meziani/output/snake.svg"
+  />
+</picture>
 
 ###
 
