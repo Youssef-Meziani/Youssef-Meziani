@@ -162,7 +162,7 @@
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-  <div align="left">
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
@@ -184,9 +184,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-</div>
-
-###
 </div>
 
 ###
