@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=26&duration=2000&pause=1000&center=true&vCenter=true&random=true&width=500&lines=Hi+there!+%F0%9F%91%8B+I'm+Youssef%2C;I'm+a+Computer+Science+Engineer%2C;Specialized+in+DevOps+%26+Cloud."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=26&duration=2000&pause=1000&center=true&vCenter=true&random=true&width=500&lines=Hi+there!+%F0%9F%91%8B+I'm+Youssef%2C;I'm+a+Cloud+DevOps+Engineer."/>
 </div>
 
 ###
@@ -15,16 +15,16 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Youssef-Meziani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.shion.dev/api?username=Youssef-Meziani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Youssef-Meziani&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Youssef-Meziani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=default&hide_border=false" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=Youssef-Meziani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=default&hide_border=false" height="170" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Youssef-Meziani&theme=default&no-frame=false&no-bg=false&margin-w=4&margin-h=4" alt="Trophies" />
-</div>
+</div> -->
 
 ###
 
