@@ -16,7 +16,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Youssef-Meziani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <br/>
   <img src="https://streak-stats.demolab.com?user=Youssef-Meziani&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs?username=Youssef-Meziani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=default&hide_border=false" height="170" alt="languages graph"  />
 </div>
 
